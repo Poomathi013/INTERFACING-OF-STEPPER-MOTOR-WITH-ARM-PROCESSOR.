@@ -47,7 +47,8 @@ Delay.h, stdutils.h, gpioi.h
 <img width="377" height="325" alt="Screenshot 2025-10-29 091930" src="https://github.com/user-attachments/assets/b7cdf415-a9ef-47d8-aa9e-38df1d7e40b8" />
 
 # CIRCUIT DIAGRAM:
-<img width="377" height="325" alt="Screenshot 2025-10-29 091930" src="https://github.com/user-attachments/assets/f71b36a4-ba96-4d59-8d42-2c5e581025f3" />
+<img width="212" height="187" alt="image" src="https://github.com/user-attachments/assets/f1944471-7b4b-4cfa-913e-45977a21f404" />
+
 # PROGRAM:
 ```
 #include<lpc17xx.h>
